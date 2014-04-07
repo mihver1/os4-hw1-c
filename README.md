@@ -1,4 +1,4 @@
 os4-hw1-c
 =========
 
-Kinda netcat server
+remote-cat server. C w/ linux api.
